@@ -3,6 +3,6 @@ A murder of the billionaire Johnson Wayne has just occurred at the Wayne Mansion
 You have been assigned to the case and must investigate and arrest the criminal.
 
 There are 3 suspects. Which would you like to hear about first?
-[Suspect #1: The Maid]   
-[Suspect #2: The Butler]  
-[Suspect #3: The Chef]  
+[Suspect #1: The Maid](suspect-files/maid.md)  
+[Suspect #2: The Butler](suspect-files/butler.md)  
+[Suspect #3: The Chef](suspect-files/chef.md)  

@@ -18,5 +18,5 @@
 
 **Would you like to:**  
 [Arrest the maid](../suspect-arrests/arrest-the-maid.md)  
-[Hear more about the maid](../about-maid.md)  
+[Hear more about the maid](about-maid.md)  
 [Choose another suspect to investigate](../intro.md)

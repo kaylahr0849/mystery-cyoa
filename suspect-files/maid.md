@@ -1,7 +1,7 @@
 ### Charlotte Sanders: The Maid
 
 #### _Schedule_
-|Time   |Activity                   |
+|Time   |Activity|
 |-------|-------------------------|
 |8 a.m. |Set the table for breakfast|
 |9 a.m. |Cleaned the table and washed the dishes after breakfast|

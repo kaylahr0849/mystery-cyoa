@@ -18,4 +18,5 @@
 
 **Would you like to:**  
 [Arrest the butler](../suspect-arrests/arrest-the-butler.md)  
+[Hear more about the butler](../about-butler.md)  
 [Choose another suspect to investigate](../intro.md)

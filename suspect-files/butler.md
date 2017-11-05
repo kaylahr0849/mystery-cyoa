@@ -1,6 +1,6 @@
 ### Benson Pennyworth: The Butler
 
-### _Schedule_
+#### _Schedule_
 |Time   |Activity|
 |-------|-------------------------|
 |8 a.m. |Woke up Mr. Wayne|

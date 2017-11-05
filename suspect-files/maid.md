@@ -16,6 +16,6 @@
 |6 p.m. |Took out the garbage|
 |7 p.m. |Discovered Mr. Wayne dead|
 
-**Would you like to:**
-[Arrest the maid](../suspect-arrests/arrest-the-maid.md)
+**Would you like to:**  
+[Arrest the maid](../suspect-arrests/arrest-the-maid.md)  
 [Choose another suspect to investigate](../intro.md)

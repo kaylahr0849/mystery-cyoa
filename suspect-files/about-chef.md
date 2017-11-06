@@ -6,3 +6,5 @@ He has a wife and three children.
 [Arrest the chef](../suspect-arrests/arrest-the-chef.md)  
 [Go back to the chef's schedule](chef.md)  
 [Choose another suspect to investigate](../intro.md)
+
+![Chef](../suspect-arrestChef_cooking_clip_art.svg.png)

@@ -7,3 +7,5 @@ Mr. Wayne has left money in his will for Benson Pennyworth.
 [Arrest the butler](../suspect-arrests/arrest-the-butler.md)  
 [Go back to the butler's schedule](butler.md)  
 [Choose another suspect to investigate](../intro.md)
+
+![butler](../suspect-arrests/concierge-1184853_960_720.png)

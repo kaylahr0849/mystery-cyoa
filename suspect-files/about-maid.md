@@ -8,4 +8,4 @@ Her co-workers claim she hates her job.
 [Go back to the maid's schedule](maid.md)  
 [Choose another suspect to investigate](../intro.md)
 
-![maid](../suspects-arrests/server-293966_960_720.png)
+![maid](../images/maid.png)

@@ -8,4 +8,4 @@ Mr. Wayne has left money in his will for Benson Pennyworth.
 [Go back to the butler's schedule](butler.md)  
 [Choose another suspect to investigate](../intro.md)
 
-![butler](../suspect-arrests/concierge-1184853_960_720.png)
+![butler](../images/butler.png)
